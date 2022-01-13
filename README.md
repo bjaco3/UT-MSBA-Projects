@@ -4,10 +4,10 @@ Coursework completed in UT Austin's MS Business Analytics Program
 
 ## Courses
 
-### Advanced Machine Learning
+### [Advanced Machine Learning](/tree/main/Advanced%20ML)
 
-### Analytics for Unstructured Data
+### [Analytics for Unstructured Data](/tree/main/Analytics%20for%20Unstructured%20Data)
 
 ### Optimization
 
-### Summer Courses (Data Science Programming & Intro to Machine Learning)
+### [Summer Courses](/tree/main/Summer%20Courses/Data_Analytics_Exercises) (Data Science Programming & Intro to Machine Learning)
